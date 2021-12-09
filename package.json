@@ -1,0 +1,22 @@
+{
+    "name": "nico-s-owo-de-uwu",
+    "displayName": "nico's owo de uwu",
+    "description": "uwu",
+    "publisher": "NicolásKawaii",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "nico's owo de uwu",
+                "uiTheme": "vs-dark",
+                "path": "./themes/nico's owo de uwu-color-theme.json"
+            }
+        ]
+    }
+}
