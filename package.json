@@ -4,6 +4,22 @@
     "description": "uwu",
     "publisher": "NicolásKawaii",
     "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Nicolas-Cordero/Nico-s-owo-de-uwu.git"
+    },
+    "keywords": [
+        "theme",
+        "dark theme",
+        "Nico's",
+        "Nicolás Cordero",
+        "Kawaii theme",
+        "Kawaii",
+        "Japanese",
+        "uwu",
+        "owo",
+        "hola cesar"
+    ],
     "engines": {
         "vscode": "^1.63.0"
     },
